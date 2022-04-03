@@ -4,4 +4,4 @@ This notebook **simulates** a real case of extracting, cleaning and displaying t
 
 **Python 3.7** is the version that applies for the main notebook (*Agrarian_distribution_of_food_classes_by_specie.ipynb*) due to the modules needed.
 
-The main Jupyter Notebook of this repository works as a **Guide or Procedure** and by pressing the corresponding cells you can check what was written to accomplish what you are seeing. So are the objects extraction, transform, load and spatial, which are intended to recreate a way to approach the solution by adding modularity to the code presented in the main notebook.
+The main Jupyter Notebook of this repository works as a **Guide or Procedure** and by pressing the corresponding cells you can check what was written to accomplish what you are seeing. `So are the modules extraction, transform, load and spatial, which are intended to recreate a way to approach the solution by adding modularity to the code presented in the main notebook.`
